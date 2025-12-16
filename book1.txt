@@ -1,2 +1,3 @@
 new book
-new line of the book 
+new line of the book
+new
